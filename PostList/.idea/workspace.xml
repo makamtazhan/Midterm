@@ -4,22 +4,9 @@
     <list default="true" id="43e1d663-bcf4-438a-b493-b103fc941401" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../Android-master/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Android-master/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PostList/app/src/main/java/com/example/todolist/AddListFragment.kt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ToDoList-main/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ToDoList-main/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MailApplication/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MailApplication/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PostList/app/src/main/java/com/example/todolist/AddTodoFragment.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PostList/app/src/main/java/com/example/todolist/DetailFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/PostList/app/src/main/java/com/example/todolist/DetailFragment.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PostList/app/src/main/java/com/example/todolist/ToDo.kt" beforeDir="false" afterPath="$PROJECT_DIR$/PostList/app/src/main/java/com/example/todolist/ToDo.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PostList/app/src/main/java/com/example/todolist/ToDoListAdapter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/PostList/app/src/main/java/com/example/todolist/ToDoListAdapter.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PostList/app/src/main/java/com/example/todolist/ToDoListFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/PostList/app/src/main/java/com/example/todolist/ToDoListFragment.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PostList/app/src/main/java/com/example/todolist/network/ApiService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/PostList/app/src/main/java/com/example/todolist/network/ApiService.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PostList/app/src/main/res/layout/fragment_add_list.xml" beforeDir="false" afterPath="$PROJECT_DIR$/PostList/app/src/main/res/layout/fragment_add_list.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PostList/app/src/main/res/layout/fragment_detail.xml" beforeDir="false" afterPath="$PROJECT_DIR$/PostList/app/src/main/res/layout/fragment_detail.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PostList/app/src/main/res/layout/fragment_to_do_list.xml" beforeDir="false" afterPath="$PROJECT_DIR$/PostList/app/src/main/res/layout/fragment_to_do_list.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PostList/app/src/main/res/layout/item_task.xml" beforeDir="false" afterPath="$PROJECT_DIR$/PostList/app/src/main/res/layout/item_task.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PostList/app/src/main/res/navigation/nav_graph.xml" beforeDir="false" afterPath="$PROJECT_DIR$/PostList/app/src/main/res/navigation/nav_graph.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PostList/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/PostList/app/src/main/res/values/strings.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +39,18 @@
       <option name="presentableId" value="Default" />
       <updated>1607406017540</updated>
     </task>
+    <task id="LOCAL-00001" summary="Endterm">
+      <created>1607407295641</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607407295641</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Endterm" />
+    <option name="LAST_COMMIT_MESSAGE" value="Endterm" />
   </component>
 </project>
